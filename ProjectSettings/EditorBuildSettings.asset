@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Character.unity
+    guid: 3254d9404b159f24c9b90864e2c205eb
+  - enabled: 1
+    path: Assets/Scenes/Content.unity
+    guid: 637e14e0267948345af0c78c1a57dd7e
+  - enabled: 1
+    path: Assets/Scenes/MCQ/QnA.unity
+    guid: d56e7f4ad9af2284fb2276dbaf441ab5
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Earth.unity
+    guid: 49e5de86d5e69d548941c2332acf2d88
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Jupiter.unity
+    guid: ea3fb7b72c9014a47b3b8aaa2dcc387e
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Mars.unity
+    guid: a0b01bd5bfb337d499f190175cd7538e
+  - enabled: 1
+    path: Assets/Scenes/MCQ/TextToVoice.unity
+    guid: b925737ac63c9084e9fe9df2e79284fc
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Mercury.unity
+    guid: af5ee6e89f329284aa73e732e31cabbb
+  - enabled: 1
+    path: Assets/Scenes/AI_Planet/AI_Planet.unity
+    guid: 74a2b8579aa228a44923cc32671753c9
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Neptune.unity
+    guid: e4ec513ffc5d78846a5c913732ce8b41
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Planet.unity
+    guid: 8913e194afca47740bdf5b0a8e8f6be9
+  - enabled: 1
+    path: Assets/Scenes/Planet/Planets/Uranus.unity
+    guid: 37452a1345af47a43b86edcb8571292a
+  - enabled: 1
+    path: Assets/Scenes/Tamil/Paduka.unity
+    guid: 977ffc41d856c1e4d9f1cecb4b5cb62a
+  - enabled: 1
+    path: Assets/Scenes/Tamil/BrihadeswaraTemple.unity
+    guid: d420acb25a8933546a9549f5bebf9be2
+  - enabled: 1
+    path: Assets/Scenes/Tamil/Tamil.unity
+    guid: a8df06bf3c5c59d4e9508b469a764771
+  - enabled: 1
+    path: Assets/Scenes/AI_Planet/AI_Earth.unity
+    guid: 47d97ea6348187e48ad6482cab68ff39
+  - enabled: 1
+    path: Assets/Scenes/AI_Planet/AI_Mercury.unity
+    guid: 20d84025ddb35154f94da0b9a3d4bbc6
+  - enabled: 1
+    path: Assets/Scenes/AI_Planet/AI_Mars.unity
+    guid: edffaba6751689e44abc777909a795ac
+  - enabled: 1
+    path: Assets/Scenes/Vowels/Vowels.unity
+    guid: e33db7031bb22b141b34202b3ded51e1
+  - enabled: 1
+    path: Assets/Scenes/AI_Planet/AI_Venus.unity
+    guid: 62b5d4fad915d8e47a1033c9d6c84d21
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a3bdb6152f7228840bf5b1c32caa04e3, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: cd0fec74f49298d428fe7bcd71c9191f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 51e54c6b172380e459b5b17ec58ea0d7, type: 2}
